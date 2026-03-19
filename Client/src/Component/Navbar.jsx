@@ -13,6 +13,9 @@ function Navbar() {
         <div>
           Pet Boarding
         </div>
+        <div>
+          Sign Up
+        </div>
       </div>
     </div>
   )
