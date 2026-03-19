@@ -13,8 +13,10 @@ function Navbar() {
         <div>
           Pet Boarding
         </div>
-        <div>
+        <div className=''>
+          <div>
           Sign Up
+          </div>
         </div>
       </div>
     </div>
