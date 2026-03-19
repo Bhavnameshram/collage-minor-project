@@ -2,8 +2,8 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>
-      <div>
+    <div className=''>
+      <div className=' h-10 w-full bg-amber-400 flex gap-7.5 justify-center'   >
         <div>
           Home
         </div>
